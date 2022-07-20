@@ -1,7 +1,7 @@
 <h2
   align="center"
 >
-  Hello there 👋 I'm TaeYoon Kim
+  Hello there 👋
 </h2>
 <p
   align="center"
