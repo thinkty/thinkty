@@ -41,9 +41,7 @@
 </p>
 <br/>
 
-- 🏫 I'm a sophomore in computer science at Purdue University
-- 💼 I'm currently on [military service](https://en.wikipedia.org/wiki/Conscription_in_South_Korea)
-- 📖 I’m learning the fundamentals of operating systems through [this](https://www.wiley.com/en-us/Operating+System+Concepts%2C+10th+Edition-p-9781119320913) book
+- 🏫 I'm a junior in computer science at Purdue University
 - 🤙 Reach me by [email](mailto:just4ink007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thinkty/)
 - 🏠 Get to know me more at my homepage [thinkty.net](https://thinkty.net/)
 - 👏 Credits to the profile picture : "[Lego](https://thenounproject.com/search/?q=lego&i=327572)" by Gerardo Martín Martínez from [the Noun Project](https://thenounproject.com/)
