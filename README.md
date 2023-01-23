@@ -30,6 +30,5 @@
 <br/>
 
 - 🏫 I'm a junior in computer science at Purdue University
-- 🤙 Reach me by [email](mailto:just4ink007@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thinkty/)
+- 🤙 Reach me by [email](mailto:the.thinkty@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thinkty/)
 - 🏠 Get to know me more at my homepage [thinkty.net](https://thinkty.net/)
-- 👏 Credits to the profile picture : "[Lego](https://thenounproject.com/search/?q=lego&i=327572)" by Gerardo Martín Martínez from [the Noun Project](https://thenounproject.com/)
