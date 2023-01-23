@@ -31,4 +31,4 @@
 
 - 🏫 I'm a junior in computer science at Purdue University
 - 🤙 Reach me by [email](mailto:the.thinkty@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thinkty/)
-- 🏠 Get to know me more at my homepage [thinkty.net](https://thinkty.net/)
+- 🏠 Check out my blog at [thinkty.net](https://thinkty.net/)
