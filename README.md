@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   👋
-</h2>
-<p align="center">
+</h1>
+<!-- <p align="center">
   <a href="https://thinkty.net">
     <img
       src="https://img.shields.io/static/v1?style=flat-square&label=%20&message=Homepage&color=FF4500"
@@ -27,4 +27,4 @@
     >
   </a>
 </p>
-<br/>
+<br/> -->
