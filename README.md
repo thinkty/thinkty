@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   👋
-</h1>
+</p>
 <!-- <p align="center">
   <a href="https://thinkty.net">
     <img
