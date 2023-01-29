@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello there 👋
+  👋
 </h2>
 <p align="center">
   <a href="https://thinkty.net">
@@ -28,7 +28,3 @@
   </a>
 </p>
 <br/>
-
-- 🏫 I'm a junior in computer science at Purdue University
-- 🤙 Reach me by [email](mailto:the.thinkty@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thinkty/)
-- 🏠 Check out my blog at [thinkty.net](https://thinkty.net/)
